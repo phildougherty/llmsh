@@ -91,10 +91,10 @@ By using LLM Shell, you accept full responsibility for any consequences resultin
 
 ```bash
 # Clone the repository
-git clone https://github.com/phildougherty/llm-shell.git
+git clone https://github.com/phildougherty/llmsh.git
 
 # Build the project
-cd llm-shell
+cd llmsh
 cargo build --release
 
 # Install the binary
