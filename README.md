@@ -1,4 +1,3 @@
-### ASSISTANT
 # LLM Shell
 
 A powerful shell environment enhanced with Large Language Model capabilities for natural language command processing.
